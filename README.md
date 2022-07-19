@@ -1,14 +1,24 @@
 # roadToMaster
 
-## Lab 01. Dot product of 2 vectors
-+ Input: 2 vectors
-+ Output: dot product of them
-+ Ex.: 
+## Lab 03. Snail
+
+A snail crawls along a vertical pole H meters high, ascending A meters during the day and descending B meters during the night. On what day will the snail crawl to the top of the pole?
+
++ Input format:
+```
+The program receives as input non-negative integers H, A, B, and H > B. The numbers do not exceed 100.
+```
++ Output format:
+```
+The program should output one natural number. It is guaranteed that A > B.
+```
++ Sample:
 ```
 // 01.in
-1 2 3 4 5
-4 2 1 0 0
+10
+3
+2
 
-// 01.out (or console)
-11
+// 03.out (or console)
+8
 ```
