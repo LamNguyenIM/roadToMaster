@@ -1,14 +1,23 @@
 # roadToMaster
 
-## Lab 01. Dot product of 2 vectors
-+ Input: 2 vectors
-+ Output: dot product of them
-+ Ex.: 
+## Lab 02. Symmetric number
+Given a four-digit number. Determine if its decimal notation is symmetrical. If the number is symmetric, then print OK, otherwise print number of different pairs.
+
++ Input: a single number
++ Output: the answer to the problem
++ Samples: 
 ```
 // 01.in
-1 2 3 4 5
-4 2 1 0 0
+2002
 
 // 01.out (or console)
-11
+OK
 ```
+```
+// 01.in
+9118
+
+// 01.out (or console)
+1
+```
++ Hint: ***A number can have less than four digits, then you need to consider that its decimal notation is padded on the left with insignificant zeros.***
