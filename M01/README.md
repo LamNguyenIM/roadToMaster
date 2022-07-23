@@ -3,6 +3,7 @@ Given a number *n* not greater than 100. Create an n×n array and fill it accord
 
 Display the resulting array on the screen, separating the elements of the array with spaces.
 
+**Output format:** Each element is separated by **one space** character. Last printed character is an **endline**.
 + Sample Input
 
 ```
@@ -10,10 +11,10 @@ Display the resulting array on the screen, separating the elements of the array 
 ```
 + Sample Output
 ```
-0 1 2 3 4
-1 0 1 2 3
-2 1 0 1 2
-3 2 1 0 1
-4 3 2 1 0
+0 1 2 3 4 
+1 0 1 2 3 
+2 1 0 1 2 
+3 2 1 0 1 
+4 3 2 1 0 
 
 ```
