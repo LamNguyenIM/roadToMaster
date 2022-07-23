@@ -15,4 +15,5 @@ Display the resulting array on the screen, separating the elements of the array 
 2 1 0 1 2
 3 2 1 0 1
 4 3 2 1 0
+
 ```
