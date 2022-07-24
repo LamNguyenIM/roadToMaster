@@ -12,4 +12,3 @@ with open(sys.argv[1], 'r') as fs:
     print("The day it takes for the snail to climb to the top of the pole:", d)
 
    # print(1 + (h-a)//(a-b))
-
