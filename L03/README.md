@@ -14,7 +14,7 @@ The program should output one natural number. It is guaranteed that A > B.
 ```
 + Sample:
 ```
-// 01.in
+// 03.in
 10
 3
 2

@@ -7,17 +7,17 @@ Given a four-digit number. Determine if its decimal notation is symmetrical. If 
 + Output: the answer to the problem
 + Samples: 
 ```
-// 01.in
+// 02.in
 2002
 
-// 01.out (or console)
+// 02.out (or console)
 OK
 ```
 ```
-// 01.in
+// 02.in
 9118
 
-// 01.out (or console)
+// 02.out (or console)
 1
 ```
 + Hint: ***A number can have less than four digits, then you need to consider that its decimal notation is padded on the left with insignificant zeros.***
